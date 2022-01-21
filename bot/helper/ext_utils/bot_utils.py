@@ -25,7 +25,7 @@ class MirrorStatus:
     STATUS_CLONING = "ক্লোনিং...♻️"
     STATUS_WAITING = "Queued...💤"
     STATUS_FAILED = "ফেইল্ড 🚫. Cleaning Download..."
-    STATUS_PAUSE = প্লাস...⛔️"
+    STATUS_PAUSE = "প্লাস...⛔️"
     STATUS_ARCHIVING = "Archiving...🔐"
     STATUS_EXTRACTING = "Extracting...📂"
     STATUS_SPLITTING = "Splitting...✂️"
